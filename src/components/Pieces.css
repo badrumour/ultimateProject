@@ -1,0 +1,43 @@
+.piece {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 0.5rem 1rem;
+}
+
+.piece-center {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 100%;
+  max-width: 1170px;
+}
+
+.piece-one {
+  margin-right: 10px;
+  margin-bottom: 10px;
+}
+
+.piece-one button {
+  padding: 0.5rem 1.1rem;
+  border: none;
+  background-color: #4caf50;
+  color: white;
+  font-size: 16px;
+  border-radius: 2rem;
+}
+
+.piece-two {
+  display: flex;
+}
+
+.piece-two button {
+  padding: 0.5rem 1.1rem;
+  margin-right: 10px;
+  margin-bottom: 10px;
+  border: none;
+  background-color: #008cba;
+  color: white;
+  font-size: 16px;
+  border-radius: 2rem;
+}

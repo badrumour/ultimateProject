@@ -1,0 +1,4 @@
+.middle {
+  background: rgb(191, 225, 243);
+  min-height: calc(100vh - 6rem);
+}
