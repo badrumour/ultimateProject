@@ -1,9 +1,15 @@
-import React from 'react'
-import "./Faces.css"
+import React from "react";
+import "./Faces.css";
+
 const Faces = () => {
   return (
-    <div className='faces'>Faces</div>
-  )
-}
+    <div className="faces">
+      <div className="faces-center">
+      
+      
+      </div>
+    </div>
+  );
+};
 
-export default Faces
+export default Faces;

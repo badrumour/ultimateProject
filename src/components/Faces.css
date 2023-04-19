@@ -1,0 +1,8 @@
+.faces {
+  height: 25rem;
+  background-color: rgb(219, 240, 236);
+  width: 93vw;
+  max-width: 1170px;
+  margin: 0 auto;
+  border-radius: 0.7rem;
+}
